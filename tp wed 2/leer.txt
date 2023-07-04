@@ -1,0 +1,5 @@
+inicio de seccion
+	usuario:	admin
+	contraseña:	1234
+
+el inicio de seccion no funciona

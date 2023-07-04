@@ -1,0 +1,137 @@
+.form{
+	height: 500px;
+    width: 500px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 6px;
+    box-shadow: 5px 5px 0;      /* Sombra sin desenfoque */
+    box-shadow: 5px 5px 2px;    /* Sombra con ligero desenfoque */
+    box-shadow: 5px 5px 10px;   /* Sombra desenfocada */
+    box-shadow: 5px 5px 40px;   /* Sombra con un desenfoque casi disipado */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form > .g-3{
+    height: auto;
+    width: 100%;
+    max-width: 500px;
+}
+
+.formulario{
+    height: auto;
+    width: 600px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 6px;
+    box-shadow: 5px 5px 0;      /* Sombra sin desenfoque */
+    box-shadow: 5px 5px 2px;    /* Sombra con ligero desenfoque */
+    box-shadow: 5px 5px 10px;   /* Sombra desenfocada */
+    box-shadow: 5px 5px 40px;   /* Sombra con un desenfoque casi disipado */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form > .g-3{
+    height: auto;
+    width: 100%;
+    max-width: 500px;
+}
+
+
+.formula{
+    height: auto;
+    width: auto;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 6px;
+    box-shadow: 5px 5px 0;      /* Sombra sin desenfoque */
+    box-shadow: 5px 5px 2px;    /* Sombra con ligero desenfoque */
+    box-shadow: 5px 5px 10px;   /* Sombra desenfocada */
+    box-shadow: 5px 5px 40px;   /* Sombra con un desenfoque casi disipado */
+}
+
+.casa{
+    width: 75%;
+	margin: auto;
+	border-radius: 5px;
+	background: #fff;
+	padding: 20px;
+	border:1px solid;
+}
+
+
+.los-modelos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 25px;
+}
+
+.el-modelos{
+    height: 500px;
+    width: 400px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 6px;
+    box-shadow: 5px 5px 0;      /* Sombra sin desenfoque */
+    box-shadow: 5px 5px 2px;    /* Sombra con ligero desenfoque */
+    box-shadow: 5px 5px 10px;   /* Sombra desenfocada */
+    box-shadow: 5px 5px 40px;   /* Sombra con un desenfoque casi disipado */
+}
+
+.elmodelo{
+    width: 75%;
+	margin: auto;
+	border-radius: 5px;
+	background: #fff;
+	padding: 20px;
+	border:1px solid;
+}
+
+.imagen{
+    padding: 5px 5px 5px 5px;
+	width: 95%;
+	background: #f8f9fa;
+	border: 1px solid #c8ccd1;
+	border-radius: 5px;
+	margin: auto;
+}
+
+.lasimagenes{
+    padding: 5px 5px 10px 5px;
+	width: 100%;
+    height: 95%;
+	background: #f8f9fa;
+	border: 1px solid #c8ccd1;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+
+table {
+    width:100%;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+   background-color: #fff;
+}
+table#t01 th {
+    background-color: black;
+    color: white;
+}
